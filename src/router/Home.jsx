@@ -29,11 +29,11 @@ function Home() {
       <>
        <div className='hello'>
           <Profile
-          foto = './assets/eu2.jpg'/>
+          foto = './assets/eu2.png'/>
           </div>
       <br />
        <aside>
-          <FotoProfile foto = './assets/eu2.jpg' />
+          <FotoProfile foto = './assets/eu2.png' />
        </aside>
       <Habilidades/>
       <Gow />
